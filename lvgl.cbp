@@ -51,6 +51,10 @@
 			<Add option="-Wall" />
 			<Add directory="." />
 		</Compiler>
+		<Unit filename="MyGUI/Checkbox.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MyGUI/Checkbox.h" />
 		<Unit filename="lv_conf.h" />
 		<Unit filename="lvgl/demos/benchmark/assets/img_benchmark_avatar.c">
 			<Option compilerVar="CC" />
